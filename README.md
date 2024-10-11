@@ -13,3 +13,7 @@ Script:
 ![image](https://github.com/user-attachments/assets/9c4898d9-bf3a-4d16-a890-7e7963bac7d0)
 
 ![image](https://github.com/user-attachments/assets/3bab269b-3ed2-4a7e-a599-f28f9e770316)
+
+How it all runs (back and forth movement to demonstrate run):
+
+https://github.com/user-attachments/assets/560bc18a-e73e-497f-9fe6-f89e0e26f392
