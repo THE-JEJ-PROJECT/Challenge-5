@@ -5,8 +5,11 @@ Challenge 05 - CCOM4995
 Go Ahead And Jump
 
 Songs added to the playlist:
+
 Eduardo: Battle C2 - ATLUS GAME MUSIC
+
 Jeremy: KICK BACK - Kenshi Yonezu
+
 Joxaniniel: In The Thick Of It - KSI
 
 Action Matrix / Input Guide: 
